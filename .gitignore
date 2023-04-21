@@ -4,6 +4,6 @@ __pycache__
 .hypothesis/
 build/
 reports/
-scripts/aws.py
+test/
 tesst.py
 Document.rtf
