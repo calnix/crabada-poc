@@ -4,6 +4,6 @@ __pycache__
 .hypothesis/
 build/
 reports/
-test/
+tests/
 tesst.py
 Document.rtf
