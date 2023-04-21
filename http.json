@@ -1,0 +1,144 @@
+{
+    "error_code": null,
+    "message": null,
+    "result": {"totalRecord": 1,"totalPages": 1,"page": 1,"limit": 8,"data": [{
+                "game_id": 4595657,
+                "start_time": 1650235957,
+                "end_time": 1650250357,
+                "cra_reward": 4125000000000000000,
+                "tus_reward": 334125000000000000000,
+                "miner_cra_reward": 1687500000000000000,
+                "miner_tus_reward": 136687500000000000000,
+                "looter_cra_reward": 2737500000000000000,
+                "looter_tus_reward": 221737500000000000000,
+                "estimate_looter_win_cra": 2737500000000000000,
+                "estimate_looter_win_tus": 221737500000000000000,
+                "estimate_looter_lose_cra": 300000000000000000,
+                "estimate_looter_lose_tus": 24300000000000000000,
+                "estimate_miner_lose_cra": 1687500000000000000,
+                "estimate_miner_lose_tus": 136687500000000000000,
+                "estimate_miner_win_cra": 4125000000000000000,
+                "estimate_miner_win_tus": 334125000000000000000,
+                "round": 0,
+                "team_id": 24182,
+                "owner": "0xfea275521354c1f1fbc1cd32bfd6d9b407df7bfa",
+                "attack_team_id": 30632,
+                "attack_team_owner": "0xb55004e1b7f395aa32d949e9a410eaadce3c1c5c",
+                "attack_point": 707,
+                "winner_team_id": 30632,
+                "attack_looting_point": 1,
+                "created_at": 1650235978856,
+                "status": "open",
+                "process": [
+                    {
+                        "action": "create-game",
+                        "transaction_time": 1650235957
+                    },
+                    {
+                        "action": "attack",
+                        "transaction_time": 1650236315
+                    },
+                    {
+                        "action": "settle",
+                        "transaction_time": 1650240067
+                    }
+                ],
+                "crabada_id_1": 57181,
+                "crabada_id_2": 57647,
+                "crabada_id_3": 19608,
+                "looting_point": 12,
+                "crabada_1_photo": "57181.png",
+                "crabada_2_photo": "57647.png",
+                "crabada_3_photo": "19608.png",
+                "faction": "LUX",
+                "defense_team_members": [
+                    {
+                        "crabada_id": 19608,
+                        "crabada_class": 4,
+                        "photo": "19608.png",
+                        "hp": 148,
+                        "speed": 27,
+                        "armor": 35,
+                        "damage": 54,
+                        "critical": 39,
+                        "is_origin": 0,
+                        "is_genesis": 0,
+                        "legend_number": 0
+                    },
+                    {
+                        "crabada_id": 57181,
+                        "crabada_class": 3,
+                        "photo": "57181.png",
+                        "hp": 125,
+                        "speed": 29,
+                        "armor": 25,
+                        "damage": 71,
+                        "critical": 52,
+                        "is_origin": 0,
+                        "is_genesis": 0,
+                        "legend_number": 0
+                    },
+                    {
+                        "crabada_id": 57647,
+                        "crabada_class": 3,
+                        "photo": "57647.png",
+                        "hp": 125,
+                        "speed": 29,
+                        "armor": 25,
+                        "damage": 71,
+                        "critical": 52,
+                        "is_origin": 0,
+                        "is_genesis": 0,
+                        "legend_number": 0
+                    }
+                ],
+                "attack_team_members": [
+                    {
+                        "crabada_id": 28106,
+                        "crabada_class": 7,
+                        "photo": "28106.png",
+                        "hp": 144,
+                        "speed": 27,
+                        "armor": 35,
+                        "damage": 56,
+                        "critical": 40,
+                        "is_origin": 0,
+                        "is_genesis": 0,
+                        "legend_number": 0
+                    },
+                    {
+                        "crabada_id": 9734,
+                        "crabada_class": 7,
+                        "photo": "9734.png",
+                        "hp": 144,
+                        "speed": 27,
+                        "armor": 35,
+                        "damage": 56,
+                        "critical": 40,
+                        "is_origin": 0,
+                        "is_genesis": 0,
+                        "legend_number": 0
+                    },
+                    {
+                        "crabada_id": 62061,
+                        "crabada_class": 4,
+                        "photo": "62061.png",
+                        "hp": 148,
+                        "speed": 27,
+                        "armor": 35,
+                        "damage": 54,
+                        "critical": 39,
+                        "is_origin": 0,
+                        "is_genesis": 0,
+                        "legend_number": 0
+                    }
+                ],
+                "defense_mine_point": 228,
+                "defense_point": 679,
+                "defense_crabada_number": 3,
+                "attack_mine_point": 200,
+                "mine_point_modifier": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+
+dotenv: .env
+
+wallets:
+  wallet1: ${PRIVATE_KEY}
+  
+networks:
+  default: avax-main
+
+
+#deveelopment:
+  #avax-main-fork
+
+# live:
+#  ├─Mainnet: avax-main
+#  └─Testnet: avax-test
