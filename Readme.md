@@ -8,3 +8,9 @@
 - messaging.py: send notifications to pushover for mobile updates.
 
 Note: delays are introduced as safeguards, as well as to allow the API to update accordingly.
+
+## Features
+
+- Automatically send crabs mining.
+- Automatically claim rewards.
+- Run the bot without human supervision.
